@@ -78,7 +78,8 @@
     "vega-expression": "^2.3.1",
     "vega-lite": "2.4.0",
     "vega-tooltip": "^0.4.2",
-    "vega-typings": "^0.2.15"
+    "vega-typings": "^0.2.15",
+    "webpack-notifier": "1.12.0"
   },
   "devDependencies": {
     "@types/classnames": "^0.0.32",
