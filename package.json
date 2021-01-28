@@ -41,7 +41,7 @@
     "ajv": "5.5.2",
     "compassql": "0.20.2",
     "font-awesome": "^4.7.0",
-    "font-awesome-sass-loader": "^1.0.3",
+    "font-awesome-sass-loader": "1.0.5",
     "isomorphic-fetch": "^2.2.1",
     "moment": "2.29.1",
     "normalize-scss": "^6.0.0",
