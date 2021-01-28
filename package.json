@@ -131,7 +131,7 @@
     "tslint-config-standard": "^4.0.0",
     "tslint-react": "^2.3.0",
     "typescript": "^2.3.4",
-    "url-loader": "^0.5.8",
+    "url-loader": "0.5.9",
     "vega-util": "1.7.0",
     "webpack": "2.7.0",
     "webpack-dev-server": "2.11.5",
