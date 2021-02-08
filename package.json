@@ -49,7 +49,7 @@
     "rc-slider": "8.7.1",
     "re-reselect": "0.6.2",
     "react": "^15.4.2",
-    "react-copy-to-clipboard": "^5.0.0",
+    "react-copy-to-clipboard": "5.0.3",
     "react-css-modules": "^4.1.0",
     "react-datetime": "^2.8.10",
     "react-dnd": "^2.2.3",
