@@ -102,7 +102,7 @@
     "@types/react-split-pane": "^0.1.6",
     "@types/react-tabs": "^1.0.0",
     "@types/redux-logger": "^3.0.0",
-    "@types/throttle-debounce": "^1.0.0",
+    "@types/throttle-debounce": "1.1.1",
     "@types/webpack": "^3.0.9",
     "@types/webpack-env": "^1.13.0",
     "autoprefixer": "^6.7.6",
