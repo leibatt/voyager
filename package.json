@@ -91,7 +91,7 @@
     "@types/jest": "^18.1.1",
     "@types/json-stable-stringify": "^1.0.32",
     "@types/node": "^8.0.22",
-    "@types/papaparse": "^4.1.30",
+    "@types/papaparse": "4.5.11",
     "@types/react": "^15.0.8",
     "@types/react-css-modules": "^3.7.6",
     "@types/react-dnd": "^2.0.32",
