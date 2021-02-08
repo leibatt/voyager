@@ -98,7 +98,7 @@
     "@types/react-dnd-html5-backend": "2.1.9",
     "@types/react-dom": "^0.14.23",
     "@types/react-hot-loader": "^3.0.3",
-    "@types/react-redux": "^4.4.36",
+    "@types/react-redux": "4.4.47",
     "@types/react-split-pane": "^0.1.6",
     "@types/react-tabs": "^1.0.0",
     "@types/redux-logger": "^3.0.0",
