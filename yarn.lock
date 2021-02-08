@@ -6393,9 +6393,10 @@ react-dom@^15.4.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.0"
 
-react-file-download@^0.3.4:
-  version "0.3.4"
-  resolved "https://registry.yarnpkg.com/react-file-download/-/react-file-download-0.3.4.tgz#4e1cfc7a47df6eeb299dfd845b99676cdedab5d2"
+react-file-download@^0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/react-file-download/-/react-file-download-0.3.5.tgz#7a4e75874528806bfa53ddddd98b4da427d3a897"
+  integrity sha1-ek51h0UogGv6U93d2YtNpCfTqJc=
 
 react-hot-loader@next:
   version "3.0.0-beta.7"
