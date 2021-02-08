@@ -60,9 +60,10 @@
   version "3.7.6"
   resolved "https://registry.yarnpkg.com/@types/react-css-modules/-/react-css-modules-3.7.6.tgz#101529c8b2d8e4bc4c599e559aa29cfb80a4767a"
 
-"@types/react-dnd-html5-backend@^2.1.7":
-  version "2.1.7"
-  resolved "https://registry.yarnpkg.com/@types/react-dnd-html5-backend/-/react-dnd-html5-backend-2.1.7.tgz#0949214821d537b878d5e29bc45db3c797cb10cb"
+"@types/react-dnd-html5-backend@2.1.9":
+  version "2.1.9"
+  resolved "https://registry.yarnpkg.com/@types/react-dnd-html5-backend/-/react-dnd-html5-backend-2.1.9.tgz#dfc9efe2a68bd12407815a2d61ddfd18bb8686fb"
+  integrity sha512-o42zIpcgXXj04xYDT9o9kXoldqDa81ie5XAKKCo7/fOWEhOCRt9UYu+LzOXC308eKKf8v0HzbJaDTr93j3JrTw==
   dependencies:
     "@types/react-dnd" "*"
 
