@@ -7942,9 +7942,10 @@ trim-right@^1.0.1:
   dependencies:
     glob "^7.1.2"
 
-ts-jest@20:
-  version "20.0.10"
-  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-20.0.10.tgz#19e9386e6c890d31c2a64e938edc0c84fc937ebc"
+ts-jest@20.0.14:
+  version "20.0.14"
+  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-20.0.14.tgz#9e82130cea6b6df718b2c2b6055452af46bb248d"
+  integrity sha512-aygKypLeCKVCpAqxEjpE5j4y4lBbh14UU+puQk/LcH3yBT0nRFQs0NzQoE6vgxhg6p1kl4Q5BkfiJdnuGwzqIg==
   dependencies:
     babel-core "^6.24.1"
     babel-plugin-istanbul "^4.1.4"
