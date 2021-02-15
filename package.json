@@ -57,7 +57,7 @@
     "react-dom": "15.7.0",
     "react-file-download": "^0.3.5",
     "react-jsonschema-form": "^0.49.0",
-    "react-modal": "^2.0.6",
+    "react-modal": "2.4.1",
     "react-redux": "^5.0.2",
     "react-spinners": "^0.0.30",
     "react-split-pane": "^0.1.58",
