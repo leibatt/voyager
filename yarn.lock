@@ -8007,9 +8007,10 @@ tslint-eslint-rules@^3.2.3:
   dependencies:
     doctrine "^0.7.2"
 
-tslint-react@^2.3.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/tslint-react/-/tslint-react-2.4.0.tgz#82c314f2752c419c6e41d9789587ef42f64261ea"
+tslint-react@2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/tslint-react/-/tslint-react-2.6.0.tgz#47a21fada1fd17589d4043bb088247d91a18bb83"
+  integrity sha1-R6IfraH9F1idQEO7CIJH2RoYu4M=
 
 tsutils@^1.1.0:
   version "1.1.0"
