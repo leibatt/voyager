@@ -72,7 +72,7 @@
     "reselect": "^2.5.4",
     "tether": "^1.4.7",
     "throttle-debounce": "^1.0.1",
-    "tslib": "^1.5.0",
+    "tslib": "1.14.1",
     "vega": "4.0.0",
     "vega-datasets": "^2.2.0",
     "vega-expression": "^2.3.1",
