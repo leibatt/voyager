@@ -7043,9 +7043,19 @@ sass-graph@2.2.5:
     scss-tokenizer "^0.2.3"
     yargs "^13.3.2"
 
-sass-loader@*, sass-loader@^5.0.1:
+sass-loader@*:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-5.0.1.tgz#4aa82f44242abe62ed8fdcd28d6331a34ef27c2d"
+  dependencies:
+    async "^2.0.1"
+    loader-utils "^0.2.15"
+    lodash.tail "^4.1.1"
+    pify "^2.3.0"
+
+sass-loader@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-6.0.0.tgz#f7ce02901e6c19c99af313fe3377c9c2bbe050a2"
+  integrity sha1-984CkB5sGcma8xP+M3fJwrvgUKI=
   dependencies:
     async "^2.0.1"
     loader-utils "^0.2.15"
