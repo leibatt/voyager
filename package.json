@@ -83,7 +83,7 @@
     "webpack-notifier": "1.13.0"
   },
   "devDependencies": {
-    "@types/classnames": "^0.0.32",
+    "@types/classnames": "^2.2.11",
     "@types/d3-selection": "^2.0.0",
     "@types/enzyme": "^2.8.0",
     "@types/es6-promise": "^0.0.32",
