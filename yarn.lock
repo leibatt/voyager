@@ -133,10 +133,10 @@
   resolved "https://registry.yarnpkg.com/@types/tapable/-/tapable-0.2.5.tgz#2443fc12da514c81346b1a665675559cee21fa75"
   integrity sha512-dEoVvo/I9QFomyhY+4Q6Qk+I+dhG59TYceZgC6Q0mCifVPErx6Y83PNTKGDS5e9h9Eti6q0S2mm16BU6iQK+3w==
 
-"@types/throttle-debounce@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@types/throttle-debounce/-/throttle-debounce-1.1.1.tgz#4a78636c36a4534b76d85ee244fce238d435f22a"
-  integrity sha512-VhX9p0l8p3TS27XU+CnDfhdnzW7HpVgtKiYDh/lfucSAz8s9uTt0q4aPwcYIr+q+3/NghlU3smXBW6ItvfJKYQ==
+"@types/throttle-debounce@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@types/throttle-debounce/-/throttle-debounce-2.1.0.tgz#1c3df624bfc4b62f992d3012b84c56d41eab3776"
+  integrity sha512-5eQEtSCoESnh2FsiLTxE121IiE60hnMqcb435fShf4bpLRjEu1Eoekht23y6zXS9Ts3l+Szu3TARnTsA0GkOkQ==
 
 "@types/uglify-js@*":
   version "2.6.29"
